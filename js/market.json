@@ -1,30 +1,34 @@
   [{"title": "Мотокосарка",
      "image":"catalog_origin_325859.jpg",
-     "parts-pay_0": "",
-     "parts-pay_1": "",
-     "price": "5399 грн",   
-     "bonus": "4390 грн"
+     "parts_pay_monobank_logo":"monobank_logo.svg",
+     "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
+     "price0": "5399 ",   
+     "price1": "4799 ",   
+     "bonus": "4390 "
 },
-{"title": "Тример",
-     "item-image":"catalog_origin_325859.jpg",
-     "parts-pay_0": "",
-     "parts-pay_1": "",
-     "price": "5399 грн",   
-     "bonus": "4390 грн"
+{"title": "Тример для трави",
+     "image":"catalog_origin_496168.jpg",
+     "parts_pay_monobank_logo":"monobank_logo.svg",
+     "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
+     "price0": "4399 ",  
+     "price1": "3999 ",    
+     "bonus": "3399 "
 },
 {"title": "Газонокосарка",
-     "image":"catalog_origin_325859.jpg",
-     "partspay0": "",
-     "partspay1": "",
-     "price": "5399 грн",   
-     "bonus": "4390 грн"
+     "image":"catalog_origin_488376.jpg",
+     "parts_pay_monobank_logo":"monobank_logo.svg",
+     "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
+     "price0": "7399 ",  
+     "price1": "6799 ",    
+     "bonus": "6099 "
 },
 {"title": "Акумуляторний обрискувач",
-     "image":"catalog_origin_325859.jpg",
-     "parts-pay_0": "",
-     "parts-pay_1": "",
-     "price": "5399 грн",   
-     "bonus": "4390 грн"
+     "image":"catalog_origin_494175.jpg",  
+     "parts_pay_monobank_logo":"monobank_logo.svg",
+     "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
+     "price0": "3399 ",
+     "price1": "2999 ",   
+     "bonus": "1390 "
 }
 ]
   

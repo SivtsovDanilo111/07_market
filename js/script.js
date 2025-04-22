@@ -37,15 +37,26 @@ itemsArray.forEach((item, index) =>{
     itemsDiv.innerHTML +=
 
     `
-    <div class="item">
-    <h2>${item.title}</h2>
-    <img src ="img/${item.partspay0}">
-    <img src ="img/${item.partspay1}">
-    <img src ="img/${item.image}">
-    <div><span>${item.price}</span></div>
-    <div><span>${item.bonus}</span></div>
+  <div class="item">
+            <div class="item-title"> ${item.title}</div>
+            <div class="item-image">
+                <img src="img/${item.image}" width="200" height="250">
+             </div>
+            <div class="parts-pay" > 
+                <div><img src="img/${item.parts_pay_monobank_logo}" width="75" height="75"></div>
+                <div><img src="img/${item.parts_pay_privatbank_logo}"  width="50" height="50"></div>
+            </div>
+            <div class ="price">
+                <div><span>${item.price0}</span><sup>грн</sup></div>
+                <div><span> ${item.price1}</span><sup>грн</sup></div>
+            </div>
+            <div class ="bonus">
+                <div>ціна за купоном</div>
+                <div><span>${item.bonus}</span> <sup>грн</sup></div>
+            </div>
+            </div>
 
-    </div>`
+    `
  })
 
     //console.log(itemsDiv)
