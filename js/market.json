@@ -1,4 +1,6 @@
-  [{"title": "Мотокосарка",
+  [{
+     "id": "34",
+     "title": "Мотокосарка",
      "image":"catalog_origin_325859.jpg",
      "parts_pay_monobank_logo":"monobank_logo.svg",
      "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
@@ -6,7 +8,8 @@
      "price1": "4799 ",   
      "bonus": "4390 "
 },
-{"title": "Тример для трави",
+{    "id": "42",
+     "title": "Тример для трави",
      "image":"catalog_origin_496168.jpg",
      "parts_pay_monobank_logo":"monobank_logo.svg",
      "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
@@ -14,7 +17,9 @@
      "price1": "3999 ",    
      "bonus": "3399 "
 },
-{"title": "Газонокосарка",
+{
+     "id": "73",
+     "title": "Газонокосарка" ,
      "image":"catalog_origin_488376.jpg",
      "parts_pay_monobank_logo":"monobank_logo.svg",
      "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
@@ -22,7 +27,8 @@
      "price1": "6799 ",    
      "bonus": "6099 "
 },
-{"title": "Акумуляторний обрискувач",
+{    "id": "91",
+     "title": "Акумуляторний обрискувач",
      "image":"catalog_origin_494175.jpg",  
      "parts_pay_monobank_logo":"monobank_logo.svg",
      "parts_pay_privatbank_logo":"4d15326d3a1a5432186d384d396cb85421a4dd82.png",
